@@ -1,0 +1,12 @@
+# cache
+__pycache__
+
+# env
+board-api-env
+
+# library, package
+node_modules
+
+# 
+*.json
+*.db
