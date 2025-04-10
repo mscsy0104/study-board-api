@@ -29,6 +29,10 @@ uvicorn main:app --reload
 ```
 
 ## 📚 주요 기능
+<img width="900" height="500" alt="Image" src="https://github.com/user-attachments/assets/b6036b1c-5bb3-4559-a486-26de9af25694" />
+
+<br>
+
 |메서드|경로|설명|
 |---|---|---|
 |GET	|/read	|게시글 전체 조회|
